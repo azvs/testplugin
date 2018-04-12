@@ -7,7 +7,7 @@ import json
 ts = int(time.time())
 payload = [
     {
-        "endpoint": "172.31.0.66",
+        "endpoint": "test66",
         "metric": "test-metric",
         "timestamp": ts,
         "step": 60,
